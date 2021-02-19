@@ -169,7 +169,7 @@ function generateTOC() {
         item.setAttribute("tabindex", 0);
         
         imageWrapper.style.width = THUMB_DISPLAY_SIZE + "px";
-        imageWrapper.style.height = "15px";
+        imageWrapper.style.height = "30px";
         
         imageWrapper.setAttribute("href", "#" + page.id);
 

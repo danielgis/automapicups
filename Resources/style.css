@@ -42,7 +42,7 @@ body, html {
 }
 .Page .ImageContainer > .Links > a {
     position: absolute;
-    background-color: transparent;
+    background-color: #e3161699;
     transition: background-color 0.2s ease;
 }
 body.Active .Page .ImageContainer > .Links > a {
